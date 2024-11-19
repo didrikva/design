@@ -1,0 +1,26 @@
+{% include 'incl/header.twig' %}
+
+<body>
+    {% include 'incl/nav.twig' %}
+
+    <div class="main technology" role="main">
+        <aside class="menu">
+            <h2>Meny</h2>
+        </aside>
+        <article class="article">
+        <p>technology</p>
+        {{ content }}
+        </article>
+        {% for page in pages("blog")|sort_by("time")|reverse if not page.hidden %}
+            <div class="post">
+            <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
+            <p class="date">{{ page.date_formatted }}</p>
+            <p class="excerpt">{{ page.description }}</p>
+     </div>
+ {% endfor %}
+    </div>
+    
+    {% include 'incl/footer.twig' %}
+</body>
+
+</html>

@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.main {
+    width: 100%;
+    max-width: 64rem;
+    padding: 2rem;
+    margin: auto;
+    flex: 1 0 auto;
+}
+
+.header, .footer {
+    flex: 0 0 auto;
+}
+

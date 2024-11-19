@@ -1,5 +1,5 @@
 ---
-Logo: image/chelsea.jpeg
+Logo: image/chelsea.jpeg?w=200
 Tagline: My portfolio.
 Social:
     - title: Link till sidans github repo.
@@ -7,12 +7,12 @@ Social:
       icon: github
     - title: Link till Instagram
       url: https://www.instagram.com/chelseafc/
-      icon: fa-brands fa-instagram
+      icon: fab fa-instagram
     - title: Link till Twitter
       url: https://www.youtube.com/channel/UCU2PacFf99vhb3hNiYDmxww
-      icon: fa-brands fa-youtube
+      icon: fab fa-youtube
     - title: Link till Twitter
       url: https://sv.wikipedia.org/wiki/Chelsea_FC
-      icon: fa-brands fa-wikipedia-w
+      icon: fab fa-wikipedia-w
 ---
 
