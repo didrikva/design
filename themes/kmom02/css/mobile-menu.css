@@ -60,4 +60,8 @@ nav>ul>li:hover {
         text-align: center;
         cursor: pointer;
     }
+    .technology .menu {
+        display: none;
+    }
+    
 }

@@ -4,7 +4,7 @@ Tagline: My portfolio.
 Social:
     - title: Link till sidans github repo.
       url: https://github.com/didrikva/design
-      icon: github
+      icon: fa-brands fa-github
     - title: Link till Instagram
       url: https://www.instagram.com/chelseafc/
       icon: fab fa-instagram
@@ -14,5 +14,11 @@ Social:
     - title: Link till Twitter
       url: https://sv.wikipedia.org/wiki/Chelsea_FC
       icon: fab fa-wikipedia-w
+    - title: Dark Mode
+      url: ?action=theme
+      icon: fas fa-moon
+    - title: Destroy Session
+      url: ?action=session_destroy
+      icon: fas fa-trash-alt
 ---
 

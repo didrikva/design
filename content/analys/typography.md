@@ -27,6 +27,13 @@ Fliken computed användes och hela typsnitssträngen kopierades från webbläsar
 Resultat
 -----------------------
 
+|                | Rubriktypsnitt | Brödtext |
+|----------------|----------------|----------| 
+| Expressen.se   | Siri           |inter     |
+| Aftonbladet.se | Verdana        |inter     |
+| Ica.se         | Ica rubrik     |Ica text ny|
+| Synonymer.se   | Helvetica Neue |Helvetica Neue|
+| 1177.se        | Siri           |          |
 Expressen.se:
 h2: 
 font-family: siri, siri-fallback-helvetica, siri-fallback-impact, siri-fallback-roboto, inter, inter-fallback-helvetica, inter-fallback-segoe-ui, inter-fallback-roboto, sans-serif;
