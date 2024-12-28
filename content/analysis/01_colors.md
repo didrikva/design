@@ -31,7 +31,6 @@ Chelsea
 </tr>
 </table>
 
-
 Naturhistoriska museet
 <img class="flash-img" src="image/../../assets/img/natur.design.png">
 <table style="border-spacing: 4px; border-collapse: separate">
@@ -63,7 +62,6 @@ Naturhistoriska museet använder mycket bilder och mörkare färger framförallt
 <br>
 <br>
 Teslas hemsida använder sig mestadels av bilder och var därför svårt att ens hitta 3 färger dem använder sig av. På förstasidan är det mestadels bilder på bilar i olika miljöer där dem kör. Detta antagligen för att få en mer rörlig och aktiv miljö där bilarna används. Går man sedan vidare där man kan köpa bilar möts man av en vit bakgrund med bild på bilen man har valt. Typsnittet dem använder är "Gotham" som även den är ganska standard men kanske inte det mest använda typsnittet. Tesla använder sig som sagt mestadels av bilder på deras hemsida vilket hjälper dem att framföra vad dem säljer. Bilderna är i avslappande och fräscha miljöer vilket hjälper till att framhäva bilarna. Färgerna är annars lugna med mycket vitt. 
-
 
 Referenser
 -----------------------
