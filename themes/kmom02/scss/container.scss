@@ -8,7 +8,6 @@ body {
   flex-direction: column;
 }
 
-
 .main {
   width: 100%;
   max-width: 64rem;
@@ -18,8 +17,29 @@ body {
   background-color: $main-background-color;
 }
 
+body a {
+  color: $header-background-color;
+}
+
 .header,
 .footer {
   flex: 0 0 auto;
 }
 
+.home-img {
+  width: 150%;
+}
+
+.analysis {
+  font-size: 2rem;
+  text-align: center;
+  border: #000 2px solid;
+  border-radius: 10px;
+  width: 800px;
+  height: 250px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}

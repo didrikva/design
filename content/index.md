@@ -7,4 +7,4 @@ Didriks portfolio
 
 The source for this page is in `content/index.md`.
 
-This is a sample home page written in markdown with some frontmatter defined.
+<img class="home-img" alt="Stamford Bridge" src="image/../assets/img/chelsea-home.jpeg">

@@ -5,6 +5,8 @@
   justify-content: space-between;
   align-items: center;
   background-color: $header-background-color;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  border-radius: 8px;
 }
 
 .site-header {
@@ -12,9 +14,41 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  gap: 2rem;
+}
+
+.site-header a {
+  color: $site-header-color;
 }
 
 .nav a {
-  font-size: 3rem;
+  font-size: 2rem;
   color: $a-header-color;
+  text-decoration: none;
+  position: relative;
+  transition: all 0.3s ease;
+}
+
+.nav a:hover {
+  color: #fc0;
+  transform: scale(1.1);
+  box-shadow: 0 2px 4px rgba(255, 255, 255, 0.4);
+  text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.7);
+}
+
+.nav a::after {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -5px;
+  height: 2px;
+  background-color: #fc0;
+  transform: scaleX(0);
+  transform-origin: right;
+  transition: transform 0.3s ease;
+}
+
+.nav a:hover::after {
+  transform: scaleX(1);
+  transform-origin: left;
 }

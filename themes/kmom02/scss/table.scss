@@ -1,24 +1,26 @@
 table {
-    font-family: "Montserrat", sans-serif;
-    margin-bottom: 1.96rem;
-    border-collapse: collapse;
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 1.96rem;
+  border-collapse: collapse;
 
-    tr:nth-child(2n) {
-        background-color: #ddd;
-    }
+  tr:nth-child(2n) {
+    background-color: #ddd;
+  }
 
-    tbody > tr:hover {
-        background-color: #aff;
-    }
+  tbody > tr:hover {
+    background-color: #aff;
+  }
 
-    tr {
-        border-top: 1px solid lightgray;
-    }
-    td,
-    th {
-        padding: 4px 12px;
-    }
-    th {
-        text-align: left;
-    }
+  tr {
+    border-top: 1px solid rgb(211, 211, 211);
+  }
+
+  td,
+  th {
+    padding: 4px 12px;
+  }
+
+  th {
+    text-align: left;
+  }
 }

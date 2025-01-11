@@ -19,18 +19,18 @@ I webbläsaren Chrome besöktes hemsidan verktyget inspektera användes. Däreft
 
 Resultat
 -----------------------
-<iframe class="laddning" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQxe2kllobC6m8e1TcmFRFfNKG5cgcCow3YljM96ZssBccHiP6SrM4nZLoRiiOvkGOq5T0i4zAIYe3/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe class="laddning" title="Loading data" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQxe2kllobC6m8e1TcmFRFfNKG5cgcCow3YljM96ZssBccHiP6SrM4nZLoRiiOvkGOq5T0i4zAIYe3/pubhtml?widget=true&amp;headers=false"></iframe>
 
 Chelsea
-<img class="flash-img" src="image/../../assets/img/chelsea-design.png">
+<img class="flash-img" alt="Chelsea Webbpage" src="image/../../assets/img/chelsea-design.png">
 Förbättring: Använder mycket inhämtade exempel bilder, js osv vilket leder till många requests. Detta påverkar laddningstiden. Utöver detta är sidan stor och man kanske skulle försöka minska på onödig användning av data för att förbättra laddningstid. 
 
 Naturhistoriska museet
-<img class="flash-img" src="image/../../assets/img/natur.design.png">
+<img class="flash-img" alt="Naturhistoriska Museet Webbpage" src="image/../../assets/img/natur.design.png">
 Förbättring: Konkret har jag svårt att nämna en förbättring på sidan då den egentligen är ganska simpel, finns alltid sätt att minska hämtningen av data. 
 
 Tesla
-<img class="flash-img" src="image/../../assets/img/tesla.design.png">
+<img class="flash-img" alt="Tesla Webbpage" src="image/../../assets/img/tesla.design.png">
 Förbättring: Även här är sidan väldigt stor men använder sig inte av lika många requests. Dock är DOM content tiden väldigt hög och finns nog sätt att förbättra laddningen av DOM. 
 
 

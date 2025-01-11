@@ -22,7 +22,7 @@ Resultat
 -----------------------
 
 Chelsea
-<img class="flash-img" src="image/../../assets/img/chelsea-design.png">
+<img class="flash-img" alt="Chelsea Webbpage" src="image/../../assets/img/chelsea-design.png">
 <table style="border-spacing: 4px; border-collapse: separate">
 <tr>
 <td style="height: 50px; width: 50px; background-color: rgb(255, 255, 255)">
@@ -32,7 +32,7 @@ Chelsea
 </table>
 
 Naturhistoriska museet
-<img class="flash-img" src="image/../../assets/img/natur.design.png">
+<img class="flash-img" alt="Naturhistoriska Museet Webbpage" src="image/../../assets/img/natur.design.png">
 <table style="border-spacing: 4px; border-collapse: separate">
 <tr>
 <td style="height: 50px; width: 50px; background-color: rgb(20, 72, 54)">
@@ -42,7 +42,7 @@ Naturhistoriska museet
 </table>
 
 Tesla
-<img class="flash-img" src="image/../../assets/img/tesla.design.png">
+<img class="flash-img" alt="Tesla Webbpage" src="image/../../assets/img/tesla.design.png">
 <table style="border-spacing: 4px; border-collapse: separate">
 <tr>
 <td style="height: 50px; width: 50px; background-color: rgb(255, 255, 255)">
